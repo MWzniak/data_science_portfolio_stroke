@@ -1,0 +1,4 @@
+The goal is to predict whether a person will or will not have a stroke.
+Target variable = 'stroke'
+Dataset description and download:
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?datasetId=1120859&sortBy=voteCount
